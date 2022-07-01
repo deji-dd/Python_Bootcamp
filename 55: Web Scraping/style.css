@@ -1,0 +1,13 @@
+p{
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+.someclass{
+    color: green;
+    font-family: verdana;
+    font-size: 300%;
+}
+#someid{
+    color: blue;
+}
